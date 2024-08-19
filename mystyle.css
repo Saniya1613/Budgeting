@@ -1,0 +1,20 @@
+body { background-image:url(Desktop Wallpaper copy.jpg);
+    background-size: cover;
+}
+
+
+/* styles.css */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f8f9fa; /* Optional background color */
+}
+
+.logo {
+    width: 150px; /* Adjust to fit your design */
+    height: auto; /* Maintain aspect ratio */
+}
+
+    

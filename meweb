@@ -1,0 +1,32 @@
+
+<html>
+<head>
+  
+<title>Budgeting</title>
+<header style="font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bolder;font-size:90px;text-align:center; 
+background-color:white;">Budgeting.
+<img src="Budgeting Logo copy.png" width="120px" height="100px" 
+style="position:absolute;">
+</header>
+<hr>
+
+<nav style="background-color:yellowgreen; width:2000; height:50;">
+  <a href="http://127.0.0.1:3000/editor" style="font-family:initial; font-weight: bolder; 
+  font-size: 30; color: black;">Home</a>
+  <a href="http://127.0.0.1:3000/monthly stat" style="font-family:initial; font-weight: bolder; 
+  font-size: 30; color: black;">Monthly-Stats</a>
+  <a href="http://127.0.0.1:3000/savings log" style="font-family:initial; font-weight: bolder; 
+  font-size: 30; color: black;">Savings</a>
+
+
+</nav>
+<nav styel="background-color:yellowgreen"></nav>
+
+
+
+</head>
+<body>
+  
+</body>
+</html>
